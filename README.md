@@ -1,8 +1,13 @@
 # Not-RPG
 
-## NotRPG version1.00
+## NotRPG version1.01
 ### © 2024 Sasa creation
 Licensed under the [MIT](LICENSE.txt) license.
+
+### fix information
+セーブデータが正しく改竄チェックできない状態を修正。  
+マップ上のギミックでプレイヤーが倒れた時に何も表示されずに終了する状態を修正。  
+一部の敵のスキルでHPの最大値以上に回復する状態を修正。  
 
 
 この度は「NotRPG」をダウンロードしていただき、ありがとうございます。
